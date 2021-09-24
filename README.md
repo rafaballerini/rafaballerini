@@ -19,6 +19,6 @@
   <a href = "mailto:vizs.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-gabriella-maffei-a30a11134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Viballerini/Viballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/7341f1caf42a8679341bc22235c1e95b9288b76c/github-contribution-grid-snake.svg)
  
 </div>
