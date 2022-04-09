@@ -2,7 +2,6 @@
 <div align="center">
   <a href="https://github.com/vitgmcorrea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitgmcorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg">
