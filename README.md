@@ -1,4 +1,12 @@
 ## Ola, me chamo Felipe Silva- DevCpx!
+<h1> bem vindo(a)!</h1>
+<ul>
+<li>Programador Front-end</li>
+  <li>Email: lippepunhal@gmail.com</li>
+  
+</ul>
+
+
 <div align="center">
   <a href="https://github.com/DevCpx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevCpx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
