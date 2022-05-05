@@ -1,4 +1,4 @@
-## Ola, me chamo Felipe Silva- DevCpx!
+## Ola, me chamo Felipe Silva.
 <h1> bem vindo(a)!</h1>
 <ul>
 <li>Programador Front-end</li>
