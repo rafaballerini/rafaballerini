@@ -1,15 +1,13 @@
-## Olá! =]
-## Eu sou a Vitória Gabriella!🎀'
-<div align="center">
-  <a href="https://github.com/vitgmcorrea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitgmcorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Vi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dotnetcore/dotnetcore-original.svg"> 
-  <img align="center" alt="Vi-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png">
-</div>
+### Welcome my GitHub 👋
+
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/vitgmcorrea")
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=felipementel&theme=omni)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipementel&theme=omni)](https://github.com/felipementel/github-readme-stats)
+
+
   
   ##
  
