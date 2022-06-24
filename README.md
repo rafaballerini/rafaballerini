@@ -1,6 +1,12 @@
-## Welcome my GitHub!
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/vitgmcorrea")
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+## Welcome my GitHub! 
+## Vitória Gabriella 
+<br>
+<img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif"(http://www.nerdmaldito.com/2018/06/a-diferenca-entre-desenvolvedora-e.html) width="30px">
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vitoriagabriellati/) &nbsp;
+[![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/vitmaffei_/) &nbsp;
+
+
 <br>
 <br>
 ### Ferramentas 👩🏻‍💻
@@ -24,11 +30,7 @@
 </a> &nbsp; 
 <br>
 <br>  
-### Contatos
-<div> 
-  <a href="https://www.instagram.com/vitmaffei_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vizs.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitoriagabriellati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 
   
