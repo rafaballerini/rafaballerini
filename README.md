@@ -6,8 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vitoriagabriellati/) &nbsp;
 [![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/vitmaffei_/) &nbsp;
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/vitgmcorrea")
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
 <br>
 
 
