@@ -6,7 +6,7 @@
 
 
 <br>
-<img src="https://gifer.com/pt/4XCW width="30px">
+<img src="https://gifer.com/pt/4XCW](https://www.nerdmaldito.com/2018/06/a-diferenca-entre-desenvolvedora-e.html" width="30px">
 
 ### Ferramentas 👩🏻‍💻
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) &nbsp;
