@@ -9,7 +9,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/vitgmcorrea")
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 <br>
-<br>
+
 
 ### Ferramentas 👩🏻‍💻
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) &nbsp;
@@ -17,7 +17,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
 
 <br>
-<br>
+
 
 ### Conhecimentos 👩🏻‍💻
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
@@ -25,7 +25,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
 
 <br>
-<br>
+
 ### Status ⭐
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=synthwave)
 
@@ -33,7 +33,7 @@
   <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=vitgmcorrea&show_icons=true&theme=synthwave" />
 </a> &nbsp; 
 <br>
-<br>  
+
 
 
 
