@@ -5,10 +5,7 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=synthwave)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaAzevedo&layout=compact&theme=synthwave"/>  
-</a>
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitgmcorrea&theme=synthwave)
   
   ##
  
