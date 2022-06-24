@@ -5,7 +5,7 @@
 [![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/vitmaffei_/) &nbsp;
 <br>
 
-![myfile](https://user-images.githubusercontent.com/LBDQG7vQESaQHoPTUzFgQK-650-80.gif)
+![myfile]([https://user-images.githubusercontent.com](https://static.vakinha.com.br/uploads/vakinha/image/1150859/79480e87d9fcb11532f5fa7100f1644d.gif?ims=700x410))
 
 
 <br>
