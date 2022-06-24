@@ -6,7 +6,7 @@
 
 
 <br>
-<img src="https://i.gifer.com/4XCW.gif" width="30px">
+<img src="https://i.gifer.com/4XCW.gif" width="80px">
 
 ### Ferramentas 👩🏻‍💻
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) &nbsp;
