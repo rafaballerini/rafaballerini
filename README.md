@@ -1,7 +1,7 @@
 ## Welcome my GitHub! 
 ## Vitória Gabriella 
 <br>
-<img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif"(http://www.nerdmaldito.com/2018/06/a-diferenca-entre-desenvolvedora-e.html) width="30px">
+<img src=http://www.nerdmaldito.com/2018/06/a-diferenca-entre-desenvolvedora-e.html width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vitoriagabriellati/) &nbsp;
 [![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/vitmaffei_/) &nbsp;
