@@ -5,7 +5,7 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=omni)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitgmcorre&theme=omni)](https://github.com/felipementel/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitgmcorrea&theme=omni)](https://github.com/felipementel/github-readme-stats)
 
 
   
