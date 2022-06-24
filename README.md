@@ -3,9 +3,10 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/vitgmcorrea")
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=swift)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=moltack)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitgmcorrea&theme=swift)](https://github.com/felipementel/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitgmcorrea&theme=moltack)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitgmcorrea&theme=moltack_icons=true)
   
   ##
  
