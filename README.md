@@ -9,9 +9,13 @@
 ![myfile](https://static.vakinha.com.br/uploads/vakinha/image/1150859/79480e87d9fcb11532f5fa7100f1644d.gif?ims=400x210) 
 
 
-
-### Status ⭐
+### Knowledge 📕
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
+<br>
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=synthwave)
+### Status ⭐
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=vitgmcorrea&show_icons=true&theme=synthwave" />
