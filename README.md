@@ -16,15 +16,18 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js) &nbsp;
 <br>
 <br>
-
-
+## Status ⭐
+<br>
+<br>
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=synthwave)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=vitgmcorrea&show_icons=true&theme=synthwave" />
 </a> &nbsp; 
   
- ### Contatos
+### Contatos
+<br>
+<br>
  
 <div> 
   <a href="https://www.instagram.com/vitmaffei_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
