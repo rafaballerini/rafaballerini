@@ -15,7 +15,11 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
 <br><br>
-![1 width='70%'](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=synthwave)
+### Tools 👩🏻‍💻
+![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) &nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) &nbsp;
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=synthwave)
 ### Status ⭐
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,10 +28,6 @@
 <br>
 
 <br>
-
-### Tools 👩🏻‍💻
-![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) &nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) &nbsp;
 
 
 <br>
