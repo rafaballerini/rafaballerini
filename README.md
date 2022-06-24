@@ -6,8 +6,6 @@
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=rose_pine)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitgmcorrea&theme=rose_pine)](https://github.com/felipementel/github-readme-stats)
-
-
   
   ##
  
