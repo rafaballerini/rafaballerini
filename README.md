@@ -34,9 +34,7 @@
 </a> &nbsp; 
 <br>
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=rose_pine)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitgmcorrea&theme=rose_pine)](https://github.com/felipementel/github-readme-stats)
+<div>
   
   ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/7341f1caf42a8679341bc22235c1e95b9288b76c/github-contribution-grid-snake.svg)
  
