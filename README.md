@@ -9,6 +9,15 @@
 ![myfile](https://static.vakinha.com.br/uploads/vakinha/image/1150859/79480e87d9fcb11532f5fa7100f1644d.gif?ims=400x210) 
 
 
+
+### Status ⭐
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=synthwave)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=vitgmcorrea&show_icons=true&theme=synthwave" />
+</a> &nbsp; 
+<br>
+
 <br>
 
 ### Ferramentas 👩🏻‍💻
@@ -25,15 +34,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
 
 <br>
-
-### Status ⭐
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=synthwave)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=vitgmcorrea&show_icons=true&theme=synthwave" />
-</a> &nbsp; 
-<br>
-
 <div>
   
   ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/7341f1caf42a8679341bc22235c1e95b9288b76c/github-contribution-grid-snake.svg)
