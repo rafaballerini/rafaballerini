@@ -1,4 +1,5 @@
-### Welcome my GitHub 👋
+### Welcome my GitHub ![image](https://user-images.githubusercontent.com/90655197/175440374-b58d61cc-4235-4ea7-8d4d-69230298a303.png)
+
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/vitgmcorrea")
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
