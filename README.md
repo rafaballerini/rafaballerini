@@ -28,3 +28,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+  /* Apenas comentando pois estou aprendendo sobre os pull requests em suas aulas e já tinha dado Fork neste projeto! Beijos te adoro!
