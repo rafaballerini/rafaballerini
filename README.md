@@ -1,6 +1,6 @@
 
 ## Vitória Gabriella! 
-## Welcome my GitHub!
+## Welcome to my GitHub!
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vitoriagabriellati/) &nbsp;
 [![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/vitmaffei_/) &nbsp;
 <br>
