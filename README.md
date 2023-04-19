@@ -24,14 +24,14 @@
 <br>
 
 ### Status ⭐
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgmcorrea&theme=synthwave)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=vitgrocha&theme=synthwave)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=vitgmcorrea&show_icons=true&theme=synthwave" />
+  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=vitgrocha&show_icons=true&theme=synthwave" />
 </a> &nbsp; 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitgmcorrea&theme=rose_pine)](https://github.com/felipementel/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitgrocha&theme=rose_pine)](https://github.com/felipementel/github-readme-stats)
   
   ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/7341f1caf42a8679341bc22235c1e95b9288b76c/github-contribution-grid-snake.svg)
  
