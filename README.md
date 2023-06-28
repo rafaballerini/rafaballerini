@@ -25,4 +25,6 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   
 </div>
 
+to aprendendo usar git e estou usando seu repositorio kkkk obrigado 
+
 
