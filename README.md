@@ -79,7 +79,7 @@ Sou um engenheiro de software multidisciplinar que integra desenvolvimento backe
 
 ## 📊 GitHub Metrics
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_title=true" width="48%" />
 </div>
