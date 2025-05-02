@@ -79,9 +79,9 @@ Sou um engenheiro de software multidisciplinar que integra desenvolvimento backe
 
 ## 📊 GitHub Metrics
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px;">
+<div style="width: 100%; height: 200px; display: flex; flex-wrap: wrap; gap: 24px;">
   <img src="https://github-readme-stats.vercel.app/api?username=FPGlasser&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FPGlasser&layout=compact&theme=dark&hide_title=true" width="48%"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FPGlasser&layout=compact&theme=dark&hide_title=true" style="flex: 1;"  />
 </div>
 
 > 🔧 **Substitua** `SEU_USUARIO` pelo seu nome de usuário do GitHub.
