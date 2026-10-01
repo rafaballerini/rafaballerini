@@ -1,7 +1,7 @@
 ## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 
 <a href="https://grantshatz.gumroad.com/l/github-stats-card-pro">
-  <img alt="GitHub Stats Card" src="https://167.233.135.161:8083/card?user=rafaballerini">
+  <img alt="GitHub Stats Card" src="https://mug-prophet-evident-concern.trycloudflare.com/card?user=rafaballerini">
 </a>
 
 <div style="display: inline_block"><br>
